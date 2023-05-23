@@ -1,0 +1,4 @@
+/node_modules
+/MetaData
+/uploads
+.env.local
